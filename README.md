@@ -7,7 +7,7 @@ A dedicated Full-Stack Developer and co-founder at Abakas Digital Solutions, whe
 
 🤝 Always open to working on meaningful, tech-driven projects — especially in open source!
 
-📬 Contact me at: abdurehmanahme@gmail.com or connect on LinkedIn
+📬 Contact me at: abdurehmanahme@gmail.com or connect on LinkedIn https://www.linkedin.com/in/abdurehman-ahmed-7b5062339/
 
 ☕ Fun fact: I thrive during late-night coding sprints with a strong cup of coffee by my side.
 
