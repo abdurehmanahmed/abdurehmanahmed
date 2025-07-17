@@ -9,6 +9,4 @@ A dedicated Full-Stack Developer and co-founder at Abakas Digital Solutions, whe
 
 📬 Contact me at: abdurehmanahme@gmail.com or connect on LinkedIn https://www.linkedin.com/in/abdurehman-ahmed-7b5062339/
 
-☕ Fun fact: I thrive during late-night coding sprints with a strong cup of coffee by my side.
-
 👤 Pronouns: he/him
