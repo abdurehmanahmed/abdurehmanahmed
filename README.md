@@ -15,6 +15,8 @@ A dedicated Full-Stack Developer and co-founder at Abakas Digital Solutions, whe
 
 
 
+           
+
 
 ## 💼 Tech Toolbox
 
@@ -50,3 +52,24 @@ A dedicated Full-Stack Developer and co-founder at Abakas Digital Solutions, whe
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+
+
+
+
+
+
+
+   ## 📊 GitHub Activity & Stats
+
+![Abdurehman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurehmanahmed&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdurehmanahmed&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehmanahmed&layout=compact&theme=tokyonight)
+
+
+   
+
+
+
+
