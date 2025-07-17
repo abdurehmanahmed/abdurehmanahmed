@@ -11,7 +11,7 @@ where I transform ideas into powerful web applications.
 
 📬 Contact me at:  
 ✉️ [abdurehmanahme@gmail.com](mailto:abdurehmanahme@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdurehman-ahmed-7b5062339/)
+🔗 https://www.linkedin.com/in/abdurehman-ahmed-7b5062339/
 
 👤 Pronouns: he/him
 
@@ -57,15 +57,6 @@ where I transform ideas into powerful web applications.
 
 ---
 
-## 🌐 Connect with Me
 
-✉️ [Email Me](mailto:abdurehmanahme@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdurehman-ahmed-7b5062339/)  
-🐙 [GitHub Profile](https://github.com/abdurehmanahmed)
 
----
 
-🔥 Building.  
-🔍 Learning.  
-🤝 Sharing.  
-☕ Night owl mode: ON.
